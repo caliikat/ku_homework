@@ -1,0 +1,98 @@
+/**
+ * homework 1 attempt... 
+ **/
+
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+
+body {
+	font-size: 18px;
+	background: #777;
+	content: #ebebeb;
+	text-align: center;  
+	margin:60px 100px 100px 300px;
+	float: center;
+	position: relative;
+}
+
+header {
+ 
+  width: 960px;
+  background: #ebebeb;
+  color: #777;
+  margin: 5px 10px 10px 10px;
+  padding: 60px 60px 60px 60px;
+
+  
+}
+
+
+section {
+	padding: 20px; 
+	margin-bottom: 20px; 
+}
+
+p {
+	background-color: #ebebeb;
+	color: #777;
+	padding: 20px;	
+	margin-top: 20px;
+	overflow: auto;	
+
+}
+
+
+#nav {
+  background: #ebebeb;
+  color: #777;
+	width: 960px;
+    margin: 10px 10px 10px 10px;
+    padding: 60px 60px 60px 60px;
+}
+
+
+
+
+footer {
+	clear: both;
+	padding: 20px;	
+  background: #ebebeb;
+  color: #777;
+	width: 960px;
+    margin: 10px 10px 10px 10px;
+    padding: 60px 60px 60px 60px;
+
+}
+
+#full {
+	clear: both;
+	overflow: auto;
+	width: 960px;
+    margin: 10px 10px 10px 10px;
+    padding: 20px 5px 5px 10px;
+    background: #ebebeb;
+  	color: #777;
+}
+
+#division {
+	background-color: #777;
+	color: #ebebeb;
+	padding: 20px;	
+	margin-top: 20px;
+	overflow: auto;	
+}
+
+aside {
+	
+	width: 33%;
+	border: 1px solid #eee; 
+	padding: 20px;	
+	float: left;	
+	margin-left: 30px;	
+	overflow: auto;
+	background: #ebebeb;
+    color: #777;
+
