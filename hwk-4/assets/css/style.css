@@ -1,0 +1,76 @@
+
+body {
+background-image: url("../images/diamondwallpaper.jpg");
+font-family: 'Josefin Slab', serif;
+}
+
+button {
+display: inline-block;
+height: 200px;
+padding: 0;
+margin: 0;
+vertical-align: top;
+width: 200px;
+}
+
+img {
+  width:200px;
+  height: 200px;
+}
+
+p {
+  font-size:125%;
+}
+
+#replay {
+  color:orange;
+}
+
+.heading {
+  border-radius: 25px;
+  background:beige;
+  margin:20px;
+  padding:20px;
+  text-align:center;
+  font-weight:700;
+}
+
+#welcometext {
+  font-size:500%;
+}
+
+#winStyle {
+  color:green;
+  font-size:350%;
+}
+
+#loseStyle {
+  color:red;
+  font-size:350%;
+}
+
+.instructions {
+  border-radius: 25px;
+  background:beige;
+  margin:20px;
+  padding:20px;
+}
+.scoringInfo {
+  border-radius: 25px;
+  height:auto;
+  background-color:grey;
+  margin:20px;
+}
+.diamond-button {
+  margin:5px;
+  background-color:beige;
+  border-radius:5px;
+  top-margin:10px;
+  
+}
+.diamond-image {
+      width: 10px;
+      height: 10px;
+    }
+   
+
